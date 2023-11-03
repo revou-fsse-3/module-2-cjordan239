@@ -1,0 +1,68 @@
+
+@font-face {
+    font-family: "myFont1";
+    src: url(https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap);
+}
+
+.nav-menu li a:hover {
+    color: rgb(255, 183, 49);
+}
+
+.anim {
+
+    animation-name: mymove;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+    position: relative;
+    animation-timing-function: ease;
+    
+}
+@keyframes mymove {
+    0% {
+        right: 0%;
+    }
+    25% {
+        right: 50%;
+    }
+    50% {
+        right: 100%;
+    }
+    75% {
+        left: -100%;
+    } 
+    100% {
+        right: 50%;
+    }
+
+    
+}
+
+.oc-card1:hover {
+    filter: grayscale(0%) ;
+    rotate: 2deg;
+}
+
+.oc-card2:hover {
+    filter: grayscale(0%) ;
+    rotate: 2deg;
+}
+
+.oc-card3:hover {
+    filter: grayscale(0%) ;
+    rotate: 2deg;
+}
+
+.oc-card4:hover {
+    filter: grayscale(0%) ;
+    rotate: 2deg;
+}
+
+.oc-card5:hover {
+    filter: grayscale(0%) ;
+    rotate: 2deg;
+}
+
+.oc-card6:hover {
+    filter: grayscale(0%) ;
+    rotate: 2deg;
+}
