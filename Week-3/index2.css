@@ -178,6 +178,8 @@
 .register-container {
     background-color:darkkhaki;
     border: solid 2px;
+    place-content: center;
+    display: flex;
 }
 
 
