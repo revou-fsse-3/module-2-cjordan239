@@ -1,4 +1,4 @@
-![FrontPage](D:\Coding\module-2-cjordan239\Asset\Front-page.png)
+![FrontPage](/Asset/Front-page.png)
 
 Jrecipe Documentation
 Introduction
